@@ -1,0 +1,12 @@
+Movie_name 
+i
+Cast 
+am
+Director 
+great
+Movie_name 
+New Movie
+Cast 
+newb boy
+Director 
+new dir
